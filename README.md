@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jainaba-Banu
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Web Programming(Full-Stack Developer).
+- 🌱 I’m currently learning Full-Stack Developer.
 - 💞️ I’m fluent in english.
 - 📫 How to reach me E-mail : jainabanoufal@gmail.com.
   
