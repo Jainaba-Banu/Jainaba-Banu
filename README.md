@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Full-Stack Developer.
 - 💞️ I’m fluent in english.
 - 📫 How to reach me E-mail : jainabanoufal@gmail.com.
+- linkdIn link : www.linkedin.com/in/jainaba-banu-549469268
   
 
 <!---
